@@ -11,14 +11,9 @@ sudo pip install twilio
 ```
 
 ## Development setup
+From the console get the [sid and token](https://www.twilio.com/console)
 
-Follow:
-https://www.twilio.com/docs/api/rest/sending-messages
-From the console get the sid and token:
-https://www.twilio.com/console
-
-To get twilio number, Please follow:
-https://www.twilio.com/console/sms/getting-started/basics
+Please follow this site to get [twilio number](https://www.twilio.com/console/sms/getting-started/basics)
 
 
 ## Release History
